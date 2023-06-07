@@ -1,0 +1,14 @@
+.user-list {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .user-list h2 {
+    margin-top: 0;
+  }
+  
+  .user-list .user-card:last-child {
+    margin-bottom: 0;
+  }
